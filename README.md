@@ -6,4 +6,4 @@ in a folder (in the same repository as the project file), ready to be compressed
 The main advantage is being able to do everything without opening the QGIS editor for the project file and use the designed command,
 to make sharing faster and easier.
 
-To download the app (the exe in the dist folder) click on version under the RELEASES tag (on the right of the screen).
+To download the app (the exe in the dist folder) click on the version under the RELEASES tag (on the right of the screen).
